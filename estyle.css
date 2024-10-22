@@ -1,0 +1,71 @@
+    .mosaico1, .mosaico2 {
+        width: 100px;
+        height: 100px;
+        margin: 10px;
+        display: inline-block;
+    }
+
+    .mosaico1 {
+        background-color: #0fbd55;
+    }
+
+    .mosaico2 {
+        background-color: #424340;
+    }
+
+    .mosaico3 {
+        width: 100px;
+        height: 100px;
+        background-color: #0521f3;
+        margin: 10px;
+    }
+
+    .mosaico4 {
+        width: 100px;
+        height: 100px;
+        background-color: #780000;
+        margin: 10px;
+    }
+
+    .mosaico5 {
+        width: 10   0px;
+        height: 100px;
+        background-color: #17e8d3;
+        margin: 10px;
+    }
+
+    .mosaico6, .mosaico7, .mosaico8 {
+        width: 100px;
+        height: 100px;
+        margin: 10px;
+        display: inline-block;
+    }
+
+    .mosaico6 {
+        background-color: #f1ee12;
+        border-radius: 50%;
+    }
+
+    .mosaico7 {
+        background-color: #18d63b;
+        
+    }
+
+    .mosaico8 {
+        background-color: #000000;
+
+    }
+
+    .mosaico9 {
+        width: 100px;
+        height: 100px;
+        background-color: #2812a6;
+        margin: 10px;
+    }
+
+    .mosaico10 {
+        width: 100px;
+        height: 100px;
+        background-color: #e52121;
+        margin: 10px;
+    }
